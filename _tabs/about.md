@@ -4,16 +4,26 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello! I am Samuel and I am studying in the Department of Information Protection.  
-I am interested in various fields such as security, rebushing, web hacking, and system analysis.  
-This blog technically organizes what I learned and practiced,  
-It is a recording space that grows with everyday life.
+# 👋 About Me
 
-Project
-DNS DGA C&C exfiltration, AI‑powered emotion rebound routine recommender
+Hello! I am **Samuel**, and I am currently studying in the **Department of Information Protection**.  
+I’m interested in various fields such as security, reversing, web hacking, and system analysis.  
+This blog technically organizes what I’ve learned and practiced,  
+and serves as a space to grow while recording my daily learning journey.
 
 ---
 
+## 🚀 Projects
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+### 🔹 DNS DGA C&C Exfiltration
+Researched how malware uses Domain Generation Algorithms (DGA) to exfiltrate data over DNS.  
+Implemented a custom Go-based DNS C2 server and Python client for stealth communication.
+
+### 🔹 AI-powered Emotion Rebound Routine Recommender
+Developed a machine learning model that recommends personalized recovery routines  
+based on 24–48h activity/emotion logs. Integrated with visualization and routine extraction system.
+
+---
+
+> This page is written in Markdown. You can always update `_tabs/about.md` to reflect new projects or interests.
 {: .prompt-tip }

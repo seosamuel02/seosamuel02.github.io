@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 👋 About Me
-
 Hello! I am **Samuel**, and I am currently studying in the **Department of Information Protection**.  
 I’m interested in various fields such as security, reversing, web hacking, and system analysis.  
 This blog technically organizes what I’ve learned and practiced,  
@@ -25,5 +23,3 @@ based on 24–48h activity/emotion logs. Integrated with visualization and routi
 
 ---
 
-> This page is written in Markdown. You can always update `_tabs/about.md` to reflect new projects or interests.
-{: .prompt-tip }
